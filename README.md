@@ -1,4 +1,4 @@
-# Sketch-for-Beginners
+# Sketch for Beginners
 Sketch is an amazing piece of software that you can use to design websites, apps, icons, and much more. You can even use Sketch to create prototypes and collaborate with other people in real time.
 
 In this course for beginners we’ll cover the basics of Sketch, and we’ll do so with a UI design which I created specifically for the purpose of teaching.
