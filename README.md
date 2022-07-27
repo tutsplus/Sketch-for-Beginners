@@ -3,7 +3,8 @@ Sketch is an amazing piece of software that you can use to design websites, apps
 
 In this course for beginners we’ll cover the basics of Sketch, and we’ll do so with a UI design which I created specifically for the purpose of teaching.
 
-###USEFUL LINKS
+### USEFUL LINKS
+
 - [Sketch](https://www.sketch.com/)
 - [All the Templates You Can Download](https://elements.envato.com/wallet-app-donation-care-fund-logo-template-HFLQJX5)
 - [A lightning-fast icon sets & icon packs organizer and manager.](https://iconset.io/set/ionicons)
